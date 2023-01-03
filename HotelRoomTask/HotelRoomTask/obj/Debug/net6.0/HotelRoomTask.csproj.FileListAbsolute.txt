@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\bin\Debug\net6.0\HotelRoomTask.exe
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\bin\Debug\net6.0\HotelRoomTask.deps.json
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\bin\Debug\net6.0\HotelRoomTask.runtimeconfig.json
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\bin\Debug\net6.0\HotelRoomTask.dll
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\bin\Debug\net6.0\HotelRoomTask.pdb
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.AssemblyInfo.cs
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.dll
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\refint\HotelRoomTask.dll
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.pdb
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\HotelRoomTask.genruntimeconfig.cache
+C:\Users\User\source\repos\HotelRoomTask\HotelRoomTask\obj\Debug\net6.0\ref\HotelRoomTask.dll
